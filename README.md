@@ -19,6 +19,9 @@
 ```shell
 cd ~
 git clone https://github.com/Binaryify/NeteaseCloudMusicApi.git
+cd NeteaseCloudMusicApi
+npm install
+cd ..
 git clone https://github.com/Qnurye/faked_netease_cloud_music.git
 cd faked_netease_cloud_music
 pip install -r requirements.txt
@@ -79,4 +82,4 @@ if __name__ == '__main__':
 
 # How it works ?
 
-根据向网易云官方api `https://music.163.com/api/song/enhance/player/url`请求歌曲url，VIP歌曲会返回url为null。
+根据向网易云官方api `https://music.163.com/api/song/enhance/player/url`请求歌曲 url，VIP歌曲会返回url为`null`。

@@ -14,7 +14,7 @@
 
 ### Linux
 
-首先确保您正确安装并配置了 `git`, `nodejs`, `python`, `python-pip`
+首先确保您正确安装并配置了 `git`, `nodejs`, `python`, `python-pip`, `npm`
 
 ```shell
 cd ~

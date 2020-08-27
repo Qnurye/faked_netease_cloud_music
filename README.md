@@ -1,4 +1,6 @@
-## **本库依赖[NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi)**
+##### **本库依赖[NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi)**
+
+---
 
 # Intro
 
@@ -12,7 +14,7 @@
 
 ### Linux
 
-首先确保您正确安装并配置了 git, nodejs, python, python-pip
+首先确保您正确安装并配置了 `git`, `nodejs`, `python`, `python-pip`
 
 ```shell
 cd ~
@@ -75,6 +77,6 @@ if __name__ == '__main__':
         exit(1)
 ```
 
-# Why it works ?
+# How it works ?
 
 根据向网易云官方api `https://music.163.com/api/song/enhance/player/url`请求歌曲url，VIP歌曲会返回url为null。

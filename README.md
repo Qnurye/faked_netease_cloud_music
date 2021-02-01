@@ -29,7 +29,7 @@ pip install -r requirements.txt
 
 ### Windows
 
-这边建议您用[Arch Linux](https://archlinux.org)呢～ ~~(不晓得，老子不用win)~~
+这边建议您用[Arch Linux](https://archlinux.org)呢～
 
 ### MacOS
 
